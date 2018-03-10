@@ -1,0 +1,35 @@
+body {
+  background-image: url("/assets/img/burger-bg.jpg");
+  background-repeat: no-repeat;
+  background-position: center top;
+  background-size:100% auto;
+}
+
+.jumbotron-bg {
+  background-color: #ffe399 !important;
+  padding: 2rem !important;
+}
+
+.item-bg {
+  background-color: #ffbb00;
+  height: 40px;
+  width: 60%;
+  margin-top: 5px;
+  line-height: 40px;
+  display: inline-block;
+}
+
+.devoured {
+  background-color: #ffce4b;
+  color: #666666;
+  height: 30px;
+  width: 60%;
+  margin: 5px;
+  display: inline-block;
+}
+
+.textarea {
+  max-width: 300px;
+  margin: 0 auto;
+  float: none;
+}
