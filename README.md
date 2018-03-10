@@ -1,7 +1,7 @@
 ## **Eat-Da-Burger!**
 "Eat-Da-Burger" is a burger logger with MySQL, Node, Express, Handlebars and a homemade ORM (yum!).
 
-[**Start your burger logger**](https://shielded-stream-42240.herokuapp.com)
+[**Start your burger logger**](https://dry-sea-31640.herokuapp.com)
 
 **Welcome to Eat-Da-Burger!**
 
